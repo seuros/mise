@@ -1,5 +1,20 @@
 # Changelog
 
+## [2024.11.7](https://github.com/jdx/mise/compare/v2024.11.6..v2024.11.7) - 2024-11-11
+
+### 🚀 Features
+
+- added backend aliases by [@jdx](https://github.com/jdx) in [#2979](https://github.com/jdx/mise/pull/2979)
+
+### 🐛 Bug Fixes
+
+- do not add tool options to toml when they are the defaults by [@jdx](https://github.com/jdx) in [#2982](https://github.com/jdx/mise/pull/2982)
+- show warning if using outdated usage version by [@jdx](https://github.com/jdx) in [#2984](https://github.com/jdx/mise/pull/2984)
+
+### 🧪 Testing
+
+- updated snapshots by [@jdx](https://github.com/jdx) in [a86e372](https://github.com/jdx/mise/commit/a86e3725479342647310d4e1b3273def71683b5a)
+
 ## [2024.11.6](https://github.com/jdx/mise/compare/v2024.11.5..v2024.11.6) - 2024-11-10
 
 ### 🚀 Features
